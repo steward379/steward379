@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=tokyonight)](https://github.com/steward379/github-readme-stats)
+[![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_right)](https://github.com/steward379/github-readme-stats)
 
 <!--
 **steward379/steward379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
