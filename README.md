@@ -1,27 +1,18 @@
-[![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Steward Tsou</h1>
 <h3 align="center">An open-minded, frontend developer & designer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steward379&label=Profile%20views&color=0e75b6&style=flat" alt="steward379" /> </p>
 
 - 🔭 I’m currently working on [Hidden Gem](https://hidden-gem.xyz/)
-
 - 🌱 I’m currently learning **React & Next.js**
-
 - 📝 I regularly write articles on [https://medium.com/@steward-spirit](https://medium.com/@steward-spirit)
-
 - 💬 Ask me about **React, JavaScript(ES6+), Html5 & Css3**
-
 - 📫 How to reach me **dev@stewardtsou.com**
-
 - 📄 Know about my experiences [https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ Fun fact **I dived deep into blockchain technology**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
