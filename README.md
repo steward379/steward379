@@ -68,9 +68,10 @@
   <br>
   <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact" alt="steward379" height="200" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&" alt="steward379" height="200" /></p>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact" alt="steward379" height="200" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&" alt="steward379" height="200" />
+</div>
 
 <a href="https://www.buymeacoffee.com/murmurline"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murmurline" /></a>
 <a href="https://ko-fi.com/murmurline"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="murmurline" /></a><br><br>
