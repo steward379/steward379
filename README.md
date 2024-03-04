@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steward379&label=Profile%20views&color=0e75b6&style=flat" alt="steward379" /> </p>
 
 - 🔭 I’m currently working on [Hidden Gem](https://hidden-gem.xyz/), learning **React & Next.js**
-- 📝 I regularly write articles on [https://medium.com/@steward-spirit](https://medium.com/@steward-spirit)
+- 📝 I regularly write articles on [Medium](https://medium.com/@steward-spirit)
 - 💬 Ask me about **React, Next.js, python/Flask, MySQL, JavaScript(ES6+), Html5 & Css3**
 - 📫 How to reach me **dev@stewardtsou.com**
-- 📄 Know about my experiences on Resume [https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [Canvas Resume](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<br>
 [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
 <br>
 <h3 align="left">Languages and Tools:</h3>
