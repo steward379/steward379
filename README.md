@@ -11,7 +11,45 @@
 
 [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,cloudflare,css,discord,bots,docker,express,figma,firebase,flask,gcp,git,github,githubactions,gitlab,gulp,heroku,html,ai,js,jest,linux,md,mongodb,mysql,nextjs,nginx,nodejs,npm,ps,pnpm,postman,prisma,pug,py,redis,redux,sass,svg,tailwind,ts,ubuntu,vercel,vite,vscode,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=
+html,
+svg,
+css,
+sass,
+js,
+ts,
+py,
+git,
+babel,
+redux,
+gulp,
+vite,
+nextjs,
+bootstrap,
+tailwind,
+postman,
+nodejs,
+express,
+flask,
+docker,
+pnpm,
+prisma,
+mongodb,
+mysql,
+redis,
+jest,
+githubactions,
+firebase,
+linux,
+ubuntu,
+nginx,
+aws,
+gcp,
+cloudflare,
+figma,
+ai,
+ps,
+xd)](https://skillicons.dev)
 <br>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="steward379" height="170" />
