@@ -11,7 +11,6 @@
 
 [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
 <br>
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <h5>Front-end</h5>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
