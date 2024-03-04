@@ -14,8 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,cloudflare,css,discord,bots,docker,express,figma,firebase,flask,gcp,git,github,githubactions,gitlab,gulp,heroku,html,ai,js,jest,linux,md,mongodb,mysql,nextjs,nginx,nodejs,npm,ps,pnpm,postman,prisma,pug,py,redis,redux,sass,svg,tailwind,ts,ubuntu,vercel,vite,vscode,xd)](https://skillicons.dev)
 <br>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="steward379" height="200" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&theme=aura_dark" alt="steward379" height="200" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="steward379" height="170" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&theme=aura_dark" alt="steward379" height="170" />
   
 </div>
 <h3 align="left">Connect with me:</h3>
@@ -30,8 +30,8 @@
 <a href="https://discord.gg/murmurline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murmurline" height="30" width="40" /></a>
 </p>
 <br>
-<a href="https://www.buymeacoffee.com/murmurline"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="murmurline" /></a>
-<a href="https://ko-fi.com/murmurline"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="murmurline" /></a><br><br>
+<a href="https://www.buymeacoffee.com/murmurline"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murmurline" /></a>
+<a href="https://ko-fi.com/murmurline"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="murmurline" /></a><br><br>
 
 <!--
 **steward379/steward379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
