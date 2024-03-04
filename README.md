@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steward379&label=Profile%20views&color=0e75b6&style=flat" alt="steward379" /> </p>
 
-- 🔭 I’m currently working on [Hidden Gem](https://hidden-gem.xyz/)
-- 🌱 I’m currently learning **React & Next.js**
+- 🔭 I’m currently working on [Hidden Gem](https://hidden-gem.xyz/), learning **React & Next.js**
 - 📝 I regularly write articles on [https://medium.com/@steward-spirit](https://medium.com/@steward-spirit)
-- 💬 Ask me about **React, JavaScript(ES6+), Html5 & Css3**
+- 💬 Ask me about **React, Next.js, python/Flask, MySQL, JavaScript(ES6+), Html5 & Css3**
 - 📫 How to reach me **dev@stewardtsou.com**
-- 📄 Know about my experiences [https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-- ⚡ Fun fact **I dived deep into blockchain technology**
-
+- 📄 Know about my experiences on Resume [https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
@@ -31,8 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact" alt="steward379" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&" alt="steward379" /></p>
-
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/murmurline"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murmurline" /></a><a href="https://ko-fi.com/murmurline"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="murmurline" /></a></p><br><br>
 
 <!--
