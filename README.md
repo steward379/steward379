@@ -15,8 +15,8 @@
 <br>
 <br>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact" alt="steward379" height="200" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&" alt="steward379" height="200" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="steward379" height="200" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&theme=aura_dark" alt="steward379" height="200" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
