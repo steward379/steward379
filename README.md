@@ -10,6 +10,7 @@
 - 📄 Know about my experiences [Canvas Resume](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,cloudflare,css,discord,bots,docker,express,figma,firebase,flask,gcp,git,github,githubactions,gitlab,gulp,heroku,html,ai,js,jest,linux,md,mongodb,mysql,nextjs,nginx,nodejs,npm,ps,pnpm,postman,prisma,pug,py,redis,redux,sass,svg,tailwind,ts,ubuntu,vercel,vite,vscode,xd)](https://skillicons.dev)
 <br>
 <br>
