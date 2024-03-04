@@ -27,14 +27,14 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/murmurline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="murmurline" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stewardtsou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stewardtsou" height="30" width="40" /></a>
-<a href="https://fb.com/murmursteward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murmursteward" height="30" width="40" /></a>
-<a href="https://instagram.com/murmurmurline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murmurmurline" height="30" width="40" /></a>
-<a href="https://dribbble.com/edgarexpress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="edgarexpress" height="30" width="40" /></a>
-<a href="https://www.behance.net/taps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="taps" height="30" width="40" /></a>
-<a href="https://medium.com/@steward-spirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@steward-spirit" height="30" width="40" /></a>
-<a href="https://discord.gg/murmurline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murmurline" height="30" width="40" /></a>
+  <a href="https://codepen.io/murmurline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="murmurline" height="30" width="40" /></a>
+  <a href="https://discord.gg/murmurline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murmurline" height="30" width="40" /></a>
+  <a href="https://dribbble.com/edgarexpress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="edgarexpress" height="30" width="40" /></a>
+  <a href="https://www.behance.net/taps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="taps" height="30" width="40" /></a>
+   <a href="https://instagram.com/murmurmurline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murmurmurline" height="30" width="40" /></a>
+  <a href="https://fb.com/murmursteward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murmursteward" height="30" width="40" /></a>
+  <a href="https://medium.com/@steward-spirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@steward-spirit" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/stewardtsou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stewardtsou" height="30" width="40" /></a>
 </p>
 <br>
 <a href="https://www.buymeacoffee.com/murmurline"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murmurline" /></a>
