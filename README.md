@@ -76,9 +76,6 @@ Marketing
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&" alt="steward379" /></p>
 
-
-
-
 <!--
 **steward379/steward379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
