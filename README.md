@@ -9,7 +9,7 @@
 - 📫 How to reach me **dev@stewardtsou.com**
 - 📄 Know about my experiences [Canvas Resume](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <br>
-- ![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
+![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <h5>Front-end</h5>
