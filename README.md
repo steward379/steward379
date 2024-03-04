@@ -13,9 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,cloudflare,css,discord,bots,docker,express,figma,firebase,flask,gcp,git,github,githubactions,gitlab,gulp,heroku,html,ai,js,jest,linux,md,mongodb,mysql,nextjs,nginx,nodejs,npm,ps,pnpm,postman,prisma,pug,py,redis,redux,sass,svg,tailwind,ts,ubuntu,vercel,vite,vscode,xd)](https://skillicons.dev)
 <br>
-<br>
-<br>
-<br>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steward379&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="steward379" height="200" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steward379&theme=aura_dark" alt="steward379" height="200" />
