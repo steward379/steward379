@@ -11,7 +11,7 @@
 
 [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=html,svg,css,sass,js,ts,py,git,babel,redux,gulp,vite,nextjs,bootstrap,tailwind,postman,nodejs,pnpm,express,flask,rails,docker,prisma,mongodb,mysql,redis,jest,githubactions,vercel,firebase,linux,ubuntu,nginx,aws,gcp,cloudflare,figma,ai,ps,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,svg,css,sass,js,ts,py,git,babel,redux,gulp,vite,nextjs,bootstrap,tailwind,postman,nodejs,pnpm,express,flask,docker,prisma,mongodb,mysql,redis,jest,githubactions,vercel,firebase,linux,ubuntu,aws,gcp,cloudflare,figma,ai,ps,xd)](https://skillicons.dev)
 <br>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
