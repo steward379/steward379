@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Hidden Gem](https://hidden-gem.xyz/), learning **React & Next.js**
 - 📝 I regularly write articles on [Medium](https://medium.com/@steward-spirit)
 - 💬 Ask me about **React, Next.js, python/Flask, MySQL, JavaScript(ES6+), Html5 & Css3**
-- 📫 How to reach me **dev@stewardtsou.com**
+- 📫 How to reach me **steward379@gmail.com**
 - 📄 Know about my experiences [Canvas Resume](https://www.canva.com/design/DAF3yKjyQH4/6sYSGPb5HwyesLmZVSc8Ew/view?utm_content=DAF3yKjyQH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 [![Steward's GitHub stats](https://github-readme-stats.vercel.app/api?username=steward379&show_icons=true&theme=aura_dark)](https://github.com/steward379/github-readme-stats)
